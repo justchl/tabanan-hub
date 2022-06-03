@@ -1,0 +1,25 @@
+{
+  "name": "tabanan-hub",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "webpack.mix.js",
+  "scripts": {
+    "dev": "npm run development",
+    "prod": "npm run production",
+    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --config=node_modules/laravel-mix/setup/webpack.config.js",
+    "watch": "npm run production -- --watch",
+    "watch-poll": "npm run watch -- --watch-poll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-env": "^7.0.3",
+    "laravel-mix": "^6.0.29"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.38.2",
+    "sass-loader": "^12.1.0"
+  }
+}
