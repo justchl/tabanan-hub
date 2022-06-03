@@ -1,0 +1,69 @@
+.app #topnav {
+    $background-color: #b91e5f;
+    background-color: $background-color;
+
+    &.dark {
+
+        .navbar-toggle span {
+            background-color: #fff !important;
+        }
+
+        .navigation-menu {
+            padding-bottom: 1.25rem;
+            & > li {
+                position: relative;
+                &:after {
+                    content: '';
+                    background-color: #fff;
+                    bottom: 0.5rem; position: absolute;
+                    left: 1.5rem; width: 1.5rem; height: 1px;
+                    @include scaleX(0);
+                    @include transition( transform .4s $easeOutExpo );
+                }
+                
+                &:hover {
+                    &:after {
+                        @include scaleX(1);
+                    }
+                }
+
+                & > a {
+                    font-size: .8125rem;
+                    padding-top: .875rem;
+                    padding-bottom: .875rem;
+                    color: #fff !important;
+                    &:hover { color: #fff !important }
+                }
+            }
+        }
+
+        @include breakpoint-down( md ){
+            #navigation {
+                border: 0;
+                background-color: $background-color;
+                @include box-shadow( 0 5px 5px rgba( 0,0,0,0.1 ));
+            }
+        }
+
+        @include breakpoint-up( lg ){
+            .navigation-menu {
+                padding-bottom: 0;
+                & > li {
+                    &:after {
+                        left: 50%; bottom: 1rem;
+                        @include transform( translateX( -50% ) scaleX(0));
+                    }
+                    &:hover {
+                        &:after {
+                            @include transform( translateX( -50% ) scaleX(1));
+                        }
+                    }
+                    & > a {
+                        padding-top: 1.5625rem;
+                        padding-bottom: 1.5625rem;
+                    }
+                }
+            }
+        }
+    }
+}

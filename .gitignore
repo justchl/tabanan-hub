@@ -4,7 +4,6 @@
 
 # Ignore Local Env
 .htaccess
-wp-content/
 
 # WP Files
 wp-config.php

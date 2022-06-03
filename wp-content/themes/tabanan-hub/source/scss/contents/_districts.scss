@@ -1,0 +1,25 @@
+
+.nav-districts {
+    border: 0;
+    font-size: .875rem;
+    @include justify-content( center );
+
+    & > .nav-item {
+        padding: .375rem;
+        // @include flex-grow(1);
+        // @include flex-shrink(0);
+
+        & > .nav-link {
+            border: 0;
+            color: #fff; opacity: .6;
+            background-color: #b91e5f;
+            border-radius: .1875rem;
+
+            @include transition( opacity .4s $easeOutExpo );
+
+            &:hover, &:focus, &.active {
+                opacity: 1;
+            }
+        }
+    }
+}
