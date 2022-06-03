@@ -1,0 +1,40 @@
+
+.card-innerset {
+    .card-controls {
+        z-index: 200;
+        position: absolute;
+        top: .875rem; right: .875rem;
+        margin: 0;
+
+        .control-button {
+            margin-bottom: .625rem;
+            .btn {
+                @include transition( transform .8s, background-color .2s );
+                @include transition-easing( $easeOutExpo );
+                @include translateX( 160% );
+
+                @include flexbox;
+                @include align-items( center );
+                @include justify-content( center );
+
+                @include box-shadow( 0 .25rem 1rem rgba( 0,0,0, 0.2 ));
+            }
+            & + .control-button > .btn { 
+                @include transition-delay( 60ms );
+                & + .control-button > .btn { 
+                    @include transition-delay( 120ms );
+                }
+            }
+        }
+    }
+
+    &:hover, &:focus {
+        .card-controls {
+            .control-button {
+                .btn {
+                    @include translateX(0);
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,14 @@
+.swiper-container {
+    &.no-overlay {
+
+        .navigation-banner-wrapper:before {
+            background: transparent !important;
+        }
+
+    }
+}
+
+.swiper-tabs .title:after, 
+.links-drop-down .title:after {
+    font-family: "Font Awesome 5 Pro";
+}

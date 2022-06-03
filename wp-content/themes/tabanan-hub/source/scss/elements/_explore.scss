@@ -1,0 +1,39 @@
+.explore-feature {
+    $size: 3.75rem;
+    
+    &:hover {
+        .icon { color: $color-primary !important }
+        .title { color: $color-secondary !important }
+    }
+
+    .icon {
+        color: $color-primary;
+        height: $size; width: $size;
+        line-height: $size;
+    }
+
+    .title {
+        font-size: 1rem;
+        
+        @include breakpoint-up( md ){
+            font-size: 1.25rem;
+        }
+
+        @include transition( color .2s );
+    }
+
+    @include breakpoint-up( md ){
+        $size: 5rem;
+        .icon {
+            height: $size; width: $size;
+            line-height: $size;
+        }
+    }
+}
+
+a.active {
+    .explore-feature {
+        @include box-shadow( 0 10px 25px rgba( 60, 72, 88, 0.15 ));
+        .title { color: $color-secondary !important }
+    }
+}

@@ -1,0 +1,21 @@
+
+
+$primary-color: #b91e5f;
+$accent-color: lighten( $primary-color, 10% );
+
+.app .jconfirm {
+    .jconfirm-box {
+        padding: 1.75rem 1.75rem .75rem !important;
+
+        &.jconfirm-type-purple {
+            border-top: solid 7px $accent-color !important;
+
+            .jconfirm-title-c {
+                .jconfirm-icon-c {
+                    color: $accent-color !important;
+                }
+            }
+
+        }
+    }
+}
