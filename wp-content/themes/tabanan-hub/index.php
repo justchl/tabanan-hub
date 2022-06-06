@@ -735,6 +735,738 @@ get_header();
             </div>
         </div>
 
+        <div class="tab-pane fade show" id="marga" role="tabpanel">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-baru.jpeg') ?>" class="ratiobox-img card-img-top" alt="Baru">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Baru</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-batanyuh.jpeg') ?>" class="ratiobox-img card-img-top" alt="Batannyuh">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Batannyuh</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-beringkit.jpeg') ?>" class="ratiobox-img card-img-top" alt="Beringkit">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Beringkit</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-cau-belayu.jpeg') ?>" class="ratiobox-img card-img-top" alt="Cau Belayu">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Caubelayu</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-geluntung.jpeg') ?>" class="ratiobox-img card-img-top" alt="Geluntung">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Geluntung</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-kukuh.jpeg') ?>" class="ratiobox-img card-img-top" alt="Kukuh">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Kukuh</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-kuwum.jpeg') ?>" class="ratiobox-img card-img-top" alt="Kuwum">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Kuwum</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-marga.jpeg') ?>" class="ratiobox-img card-img-top" alt="Marga">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Marga</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-marga-dajan-puri.jpeg') ?>" class="ratiobox-img card-img-top" alt="Marga Dajan Puri">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Marga Dajan Puri</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-marga-dauh-puri.jpeg') ?>" class="ratiobox-img card-img-top" alt="Marga Dauh Puri">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Marga Dauh Puri</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-payangan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Payangan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Payangan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-peken.jpeg') ?>" class="ratiobox-img card-img-top" alt="Peken">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Peken</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-petiga.jpg') ?>" class="ratiobox-img card-img-top" alt="Petiga">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Petiga</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-selanbawak.jpeg') ?>" class="ratiobox-img card-img-top" alt="Selanbawak">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Selanbawak</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-tegaljadi.jpeg') ?>" class="ratiobox-img card-img-top" alt="Tegaljadi">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Tegaljadi</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/marga/desa-tua.jpeg') ?>" class="ratiobox-img card-img-top" alt="Tua">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Tua</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-pane fade show" id="penebel" role="tabpanel">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-babahan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Babahan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Babahan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-biaung.jpeg') ?>" class="ratiobox-img card-img-top" alt="Biaung">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Biaung</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-buruan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Buruan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Buruan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-jatiluwih.jpeg') ?>" class="ratiobox-img card-img-top" alt="Jatiluwih">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Jatiluwih</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-jegu.jpeg') ?>" class="ratiobox-img card-img-top" alt="Jegu">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Jegu</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-mengeste.jpeg') ?>" class="ratiobox-img card-img-top" alt="Mengeste">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Mengeste</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-penatahan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Penatahan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Penatahan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-penebel.jpeg') ?>" class="ratiobox-img card-img-top" alt="Penebel">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Penebel</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-pesagi.jpeg') ?>" class="ratiobox-img card-img-top" alt="Pesagi">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Pesagi</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-pitra.jpeg') ?>" class="ratiobox-img card-img-top" alt="Pitra">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Pitra</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-rejasa.jpg') ?>" class="ratiobox-img card-img-top" alt="Rejasa">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Rejasa</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-rianggede.jpg') ?>" class="ratiobox-img card-img-top" alt="Riang Gede">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Riang Gede</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-sangketan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Sangketan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Sangketan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-senganan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Senganan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Senganan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-tajen.jpeg') ?>" class="ratiobox-img card-img-top" alt="Tajen">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Tajen</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-tegalinggah.jpg') ?>" class="ratiobox-img card-img-top" alt="Tegalinggah">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Tegalinggah</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-tengkudak.jpeg') ?>" class="ratiobox-img card-img-top" alt="Tengkudak">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Tengkudak</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/penebel/desa-wongayagede.jpeg') ?>" class="ratiobox-img card-img-top" alt="Wongayagede">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Wongaya Gede</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="tab-pane fade show" id="pupuan" role="tabpanel">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-bantiran.jpg') ?>" class="ratiobox-img card-img-top" alt="Bantiran">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Bantiran</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-batungsel.jpeg') ?>" class="ratiobox-img card-img-top" alt="Batungsel">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Batungsel</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-belatungan.jpg') ?>" class="ratiobox-img card-img-top" alt="Belatungan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Belatungan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-belimbing.jpg') ?>" class="ratiobox-img card-img-top" alt="Belimbing">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Belimbing</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-jelijih-punggang.jpeg') ?>" class="ratiobox-img card-img-top" alt="Jelijih Punggang">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Jelijih Punggang</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-karya-sari.jpeg') ?>" class="ratiobox-img card-img-top" alt="Karya Sari">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Karya Sari</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-kebon-padangan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Kebon Padangan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Kebon Padangan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-munduk-temu.jpeg') ?>" class="ratiobox-img card-img-top" alt="Munduk Temu">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Munduk Temu</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-padangan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Padangan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Padangan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-pajahan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Pajahan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Pajahan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-pujungan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Pujungan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Pujungan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-pupuan.jpeg') ?>" class="ratiobox-img card-img-top" alt="Pupuan">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Pupuan</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-sai.jpeg') ?>" class="ratiobox-img card-img-top" alt="Sai">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Sai</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 col-sm-6 mb-4 pb-2">
+                    <div class="card card-village blog rounded border-0 shadow overflow-hidden">
+                        <a href="#" target="_blank" class="position-relative ratiobox ratio--16-9">
+                            <div class="ratiobox-inner">
+                                <img src="<?= get_theme_file_uri('assets/villages/pupuan/desa-sanda.jpeg') ?>" class="ratiobox-img card-img-top" alt="Sanda">
+                            </div>
+                        </a>
+                        <div class="card-body content py-2 text-center">
+                            <a href="#" target="_blank" class="fs-16 card-title title text-dark">
+                                <span>Sanda</span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
         <div class="tab-pane fade show" id="selemadeg" role="tabpanel">
             <div class="row">
                 <div class="col-md-4 col-sm-6 mb-4 pb-2">
