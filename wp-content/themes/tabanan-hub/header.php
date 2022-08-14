@@ -56,7 +56,26 @@
             <ul class="navigation-menu justify-content-end">
                 <li><a href="<?= home_url(); ?>">Home</a></li>
                 <li><a href="<?= home_url(); ?>/tentang-kami">Tentang Kami</a></li>
-                <li><a href="<?= home_url(); ?>/berita">Berita</a></li>
+                
+                <?php
+                $query = new WP_Query(array(
+                    'post_type'      => 'news',
+                    'post_status'    => 'publish',
+                    'order'          => 'DESC',
+                    'posts_per_page' => 1)
+                );
+                    if($query->have_posts()){
+                        while ($query->have_posts()){
+                            $query->the_post()
+                ?>
+
+                <li><a href="<?= the_permalink() ?>">Berita</a></li>
+
+                <?php
+                    }
+                }
+                ?>
+
                 <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ8bLE90lknFTWS4dO8aJZln45LrsY-occ1tE7nozSFxTNcQ/viewform?usp=sf_link">Kurasi UMKM</a></li>
 
             </ul>
