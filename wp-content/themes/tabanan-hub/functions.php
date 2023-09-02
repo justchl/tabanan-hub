@@ -199,6 +199,10 @@ function tabanan_hub_scripts() {
 	wp_enqueue_script('tabanan-hub-slick-init', get_theme_file_uri('/assets/js/slick.init.js') . getFileVersionByLastMod(get_template_directory() . '/assets/js/slick.init.js'), ['jquery'], null, true);
     // Owl Slider - End
 
+	// Sweetalert - Start
+	wp_enqueue_script('tabanan-hub-sweetalert', get_theme_file_uri('/assets/js/sweetalert.min.js') . getFileVersionByLastMod(get_template_directory() . '/assets/js/sweetalert.min.js'), ['jquery'], null, true);
+	// Sweetalert - End
+
     // Icons - Start
 	wp_enqueue_script('tabanan-hub-feather', get_theme_file_uri('/assets/js/feather.min.js') . getFileVersionByLastMod(get_template_directory() . '/assets/js/feather.min.js'), ['jquery'], null, true);
 	wp_enqueue_script('tabanan-hub-unicons', 'https://unicons.iconscout.com/release/v3.0.3/script/monochrome/bundle.js', null, null, true);

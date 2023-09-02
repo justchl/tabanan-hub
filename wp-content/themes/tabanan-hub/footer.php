@@ -14,10 +14,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg col-md-8 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
-                <h4>TabananHub</h4>
-                <p class="mt-4">Alamat : Sekber : Tegal Arum Comunity.Jln. Raya Tanah Lot.Br.
-                    Batan poh, Pandak Gede, Kediri, Tabanan, Bali, Indonesia 82121</p>
-                <p>Email: <a class="mail" href="mailto:tabananhub@gmail.com">tabananhub@gmail.com</a></p>
+                <h4>Tabanan Hub</h4>
+                <p class="mt-4">Alamat Sekber: <a href="https://goo.gl/maps/JYerB7KFLFZ6w4m6A" class="mail" target="_blank">Rumah Kreatif Bank BPD Bali Tabanan</a> Jl. Gn. Batur No.1, Delod Peken, Kec. Tabanan, Kabupaten Tabanan, Bali 82113</p>
+                <p>Email: <a class="mail" href="mailto:info@tabananhub.com">info@tabananhub.com</a></p>
             </div>
 
             <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
@@ -26,6 +25,8 @@
                 </div>
 
                 <div class="row mx-n1 justify-content-center mt-4">
+                    <?php 
+                    /*
                     <div class="px-1 col-auto">
                         <a href="https://www.facebook.com/tabananhub.idIG" target="_blank" class="btn btn-icon btn-icon-lg btn-pills btn-primary d-flex align-items-center justify-content-center">
                             <i class="fab fw-n fa-facebook-f"></i>
@@ -39,6 +40,13 @@
                     <div class="px-1 col-auto">
                         <a href="https://api.whatsapp.com/send?phone=6283114111456" target="_blank"  class="btn btn-icon btn-icon-lg btn-pills btn-success d-flex align-items-center justify-content-center">
                             <i class="fab fw-n fa-whatsapp"></i>
+                        </a>
+                    </div>
+                    */
+                    ?>
+                    <div class="px-1 col-auto">
+                        <a href="https://www.youtube.com/@tabananhub4037/videos" target="_blank"  class="btn btn-icon btn-icon-lg btn-pills btn-danger d-flex align-items-center justify-content-center">
+                            <i class="fab fw-n fa-youtube"></i>
                         </a>
                     </div>
                 </div>

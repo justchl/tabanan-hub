@@ -112,7 +112,7 @@ get_header();
                                                 Hipmi atau Himpunan Pengusaha Muda merupakan sebuah organisasi nasional 
                                                 sebagai wadah kolaborasi pengusaha muda di Indonesia
                                             </li>
-                                            <li class="mt-2">Ketua: Kadek Surya Prasetya Wiguna</li>
+                                            <li class="mt-2">Ketua: I Made Sila Dhana, SE M Par</li>
                                         </ul>
                                     </div>
                                 </div>
@@ -166,7 +166,7 @@ get_header();
                                 <div class="d-flex justify-content-between">
                                     <div class="media align-items-center">
                                         <div class="commentor-detail">
-                                            <div class="h6 text-dark ff-primary">4. ICSB Tababan</div>
+                                            <div class="h6 text-dark ff-primary">4. ICSB Tabanan</div>
                                         </div>
                                     </div>
                                 </div>
@@ -250,8 +250,69 @@ get_header();
                                 </div>
                             </li>
 
-                        </ul>
+                            <li class="mt-4">
+                                <div class="d-flex justify-content-between">
+                                    <div class="media align-items-center">
+                                        <div class="commentor-detail">
+                                            <div class="h6 text-dark ff-primary">8. KNPI</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="mt-3">
+                                    <div class="p-3 bg-light rounded">
+                                        <ul class="pl-4">
+                                            <li>
+                                            (Komite Nasional Pemuda Indonesia) Tabanan
+                                            </li>
+                                            <li class="mt-2">Ketua: I Made Dwi Agung Sastrawan S.M.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
 
+                            <li class="mt-4">
+                                <div class="d-flex justify-content-between">
+                                    <div class="media align-items-center">
+                                        <div class="commentor-detail">
+                                            <div class="h6 text-dark ff-primary">9. BJOT</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="mt-3">
+                                    <div class="p-3 bg-light rounded">
+                                        <ul class="pl-4">
+                                            <li>
+                                            Bangga Jadi Orang Tabanan
+                                            </li>
+                                            <li class="mt-2">Ketua: I Ketut Sae Tanju SE MM</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="mt-4">
+                                <div class="d-flex justify-content-between">
+                                    <div class="media align-items-center">
+                                        <div class="commentor-detail">
+                                            <div class="h6 text-dark ff-primary">9. BEKRAF Tabanan</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                
+                                <div class="mt-3">
+                                    <div class="p-3 bg-light rounded">
+                                        <ul class="pl-4">
+                                            <li>
+                                            Badan Ekonomi Kreatif Kabupaten Tabanan
+                                            </li>
+                                            <li class="mt-2">Ketua: Kadek Surya Prasetya Wiguna, SE</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
                     </div>
                 </div>
             </div>
