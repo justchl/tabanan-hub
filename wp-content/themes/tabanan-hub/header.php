@@ -24,7 +24,7 @@
 </head>
 <body class="app">
 <!-- Preloader - Start -->
-<?= get_template_part('preloader'); ?>
+<?php /*<?= get_template_part('preloader'); ?> */ ?>
 <!-- Preloader - End -->
 
 <header id="topnav" class="dark defaultscroll sticky">
@@ -56,9 +56,12 @@
             <ul class="navigation-menu justify-content-end">
                 <li><a href="<?= home_url(); ?>">Home</a></li>
                 <li><a href="<?= home_url(); ?>/tentang-kami">Tentang Kami</a></li>
-                <li><a href="<?= home_url(); ?>/berita">Berita</a></li>
-                <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ8bLE90lknFTWS4dO8aJZln45LrsY-occ1tE7nozSFxTNcQ/viewform?usp=sf_link">Kurasi UMKM</a></li>
-
+                <li><a href="<?= home_url(); ?>">Berita</a></li>
+                <?php 
+                /**
+                 * <li><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScZ8bLE90lknFTWS4dO8aJZln45LrsY-occ1tE7nozSFxTNcQ/viewform?usp=sf_link">Kurasi UMKM</a></li>
+                 */
+                ?>
             </ul>
             <!-- Navigation menu - End -->
         </div>

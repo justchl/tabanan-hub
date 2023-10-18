@@ -28,7 +28,11 @@ get_header();
                         <nav aria-label="breadcrumb" class="d-inline-block">
                             <ul class="breadcrumb bg-white rounded shadow mb-0">
                                 <li class="breadcrumb-item"><a href="<?= home_url(); ?>">Home</a></li>
-                                <li class="breadcrumb-item"><a href="<?= home_url() ?>/berita">Berita</a></li>
+                                <?php 
+                                /**
+                                 * <li class="breadcrumb-item"><a href="<?= home_url() ?>/berita">Berita</a></li> 
+                                 */
+                                ?>
                                 <li class="breadcrumb-item active" aria-current="page">Detail Berita</li>
                             </ul>
                         </nav>
@@ -223,6 +227,8 @@ get_header();
                         <div class="widget">
                             <h4 class="widget-title">Ikuti Kami</h4>
                             <div class="row mx-n1 mt-4">
+                                <?php
+                                /*
                                 <div class="px-1 col-auto">
                                     <a href="https://www.facebook.com/tabananhub.idIG" target="_blank" 
                                         class="btn btn-icon btn-pills btn-outline-primary d-flex align-items-center justify-content-center">
@@ -239,6 +245,14 @@ get_header();
                                     <a href="https://api.whatsapp.com/send?phone=6283114111456" target="_blank" 
                                         class="btn btn-icon btn-pills btn-outline-success d-flex align-items-center justify-content-center">
                                         <i class="fab fw-n fa-whatsapp"></i>
+                                    </a>
+                                </div>
+                                 */
+                                ?>
+                                <div class="px-1 col-auto">
+                                    <a href="https://www.youtube.com/@tabananhub4037/videos" target="_blank" 
+                                        class="btn btn-icon btn-pills btn-outline-danger d-flex align-items-center justify-content-center">
+                                        <i class="fab fw-n fa-youtube"></i>
                                     </a>
                                 </div>
                             </div>

@@ -105,4 +105,18 @@
     });
     //Feather icon
     feather.replace()
+
+    // Init sweet alerts
+    $('.card-village a').on('click', function (e) {
+        // Disabled a link click
+        e.preventDefault();
+
+        // Display Sweetalert
+        swal({
+            icon: "info",
+            title: "Informasi!",
+            text: "Mohon Maaf, Profil Desa Masih Dalam Tahap Pengembangan.",
+            type: "info",
+        })
+    });
 }(jQuery)

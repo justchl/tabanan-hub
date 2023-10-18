@@ -4969,3 +4969,9 @@ p {
     display: none;
   }
 }
+
+/* Sweetalert - Start */
+.swal-modal .swal-text, .swal-modal .swal-footer {
+  text-align: center;
+}
+/* Sweetalert - End */
